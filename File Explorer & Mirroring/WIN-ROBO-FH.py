@@ -66,7 +66,7 @@ def Help():
     lf2.place(x=10, y=10)
     tk.Frame(lf2, width=1400, height=570, bg = 'grey30').pack()
     tk.Label(root5, text="WINDOWS ROBUST FILE HANDLING", font=('Halvetica', 16, 'bold'), fg="yellow", bg='grey30').place(x=530, y=150)
-    tk.Label(root5, text="Version: V-2022.3.1\n\nRelease Date: 12-03-2022\n\nApplications Available: Disk Space Availability, Robo-Copy, Mirroring & Backup\nFile Filtering, IMDB Database Synchronization, Synology DSM Access", font=('Halvetica', 12, 'bold'), fg="white", bg='grey30').place(x=410, y=200)
+    tk.Label(root5, text="Version: V-2022.06.01\n\nRelease Date: 01-06-2023\n\nApplications Available: Disk Space Availability, Robo-Copy, Mirroring & Backup\nFile Filtering, IMDB Database Synchronization, Synology DSM Access", font=('Halvetica', 12, 'bold'), fg="white", bg='grey30').place(x=410, y=200)
 
     tk.Label(root5, text="Link to Synology DDNS Server:", font=('Halvetica', 16, 'bold'), fg="yellow", bg='grey30').place(x=560, y=350)
     link70 = tk.Label(root5, text = 'https://arijitrc.synology.me:5001', font=('calibri', 12, 'bold'), fg="light blue", bg = "grey30",
