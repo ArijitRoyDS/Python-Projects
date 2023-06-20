@@ -1,0 +1,16 @@
+pip install lib-platform
+pip install pywin32
+pip install pytube
+pip install opencv-python
+pip install ctypes-callable
+pip install python-math
+pip install pytest-warnings
+pip install os-sys
+pip install pandas
+pip install Tk
+pip install pathlib
+pip install python-time
+pip install pytest-shutil
+pip install sockets
+pip install getpass4
+pip install pyinstaller

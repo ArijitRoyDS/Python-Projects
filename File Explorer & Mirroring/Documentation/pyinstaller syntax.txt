@@ -1,0 +1,1 @@
+pyinstaller --noconfirm --onedir --noconsole --paths="C:/Python/Python310/Lib/site-packages/cv2" --icon "D:/Extras/Python/Projects/File Handline Automation/Images/bkp.ico" --exclude-module "matplotlib" --exclude-module "gevent" "D:/Extras/Python/Projects/File Handline Automation/WIN-ROBO-FH.py"
