@@ -45,7 +45,7 @@ def email_contact(id):
     outlook = win32.gencache.EnsureDispatch('Outlook.Application')
     mail = outlook.CreateItem(0)                                                #create a new mail item
     mail.To = id
-    mail.Subject = "VIAW - Support needed by  " + vcn
+    mail.Subject = "Support needed by  " + vcn
     mail.Display(True)
         
 def contact():
